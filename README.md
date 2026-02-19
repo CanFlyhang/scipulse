@@ -21,7 +21,7 @@ SciPulse（学术脉动）是一款开源的科研信息聚合与智能推送平
 
 <p align="center">
   <!-- TODO: 将占位图片路径替换为真实的项目截图，例如 docs/screenshot-dashboard.png -->
-  <img src="学术脉动首页页面.png" alt="SciPulse Dashboard 示例界面" width="820">
+  <img src="学术脉动用户页面.png" alt="SciPulse Dashboard 界面" width="820">
 </p>
 
 ---
