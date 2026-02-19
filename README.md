@@ -2,12 +2,11 @@
 <p align="center">面向研究生与导师的智能论文订阅平台</p>
 
 <p align="center">
-  <!-- 使用时请将下面的 <your-github-name>/<your-repo-name> 替换为真实仓库路径 -->
-  <a href="https://github.com/&lt;CanFlyhang&gt;/&lt;scipulse&gt;/stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/&lt;CanFlyhang&gt;/&lt;scipulse&gt;?style=social">
+  <a href="https://github.com/CanFlyhang/scipulse/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/CanFlyhang/scipulse?style=social">
   </a>
-  <a href="https://github.com/&lt;CanFlyhang&gt;/&lt;scipulse&gt;/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/&lt;CanFlyhang&gt;/&lt;scipulse&gt;?color=ff9800">
+  <a href="https://github.com/CanFlyhang/scipulse/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/CanFlyhang/scipulse?color=ff9800">
   </a>
   <img alt="Backend" src="https://img.shields.io/badge/backend-FastAPI-009688">
   <img alt="Frontend" src="https://img.shields.io/badge/frontend-React-61dafb">
